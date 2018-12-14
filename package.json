@@ -1,10 +1,10 @@
 {
   "name": "moodlemobile",
   "version": "3.5.1",
-  "description": "The official app for Moodle.",
+  "description": "The official app for Education for Equity.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Education for Equity team",
+    "email": "it@education4equity.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/e4e-it/moodlemobile2.git"
   },
   "license": "Apache-2.0",
   "licenses": [
